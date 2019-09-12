@@ -1,1 +1,0 @@
-/usr/bin/clang++   -std=c++1y -Wall -Wextra -Wno-writable-strings  -rdynamic -fsanitize=address CMakeFiles/utility_test.dir/utility_test.cpp.o  -o utility_test 

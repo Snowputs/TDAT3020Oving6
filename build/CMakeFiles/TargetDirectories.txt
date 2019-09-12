@@ -1,9 +1,0 @@
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/CMakeFiles/test.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/CMakeFiles/rebuild_cache.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/CMakeFiles/edit_cache.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/CMakeFiles/main.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/tests/CMakeFiles/rebuild_cache.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/tests/CMakeFiles/edit_cache.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/tests/CMakeFiles/test.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/tests/CMakeFiles/utility_test.dir
-/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/build/tests/CMakeFiles/utility_fuzzer_test.dir

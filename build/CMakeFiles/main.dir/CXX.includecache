@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/main.cpp
+utility.hpp
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/utility.hpp
+cstring
+-
+iostream
+-
+

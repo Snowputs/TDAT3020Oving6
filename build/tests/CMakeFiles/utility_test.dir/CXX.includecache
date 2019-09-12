@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../utility.hpp
+iostream
+-
+
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/tests/assert.hpp
+cstdlib
+-
+iostream
+-
+
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/tests/utility_test.cpp
+assert.hpp
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/tests/assert.hpp
+utility.hpp
+/home/rubensv/Documents/Programs/Sikkerhet/Oving6/oppg1/TDAT3020Oving6/tests/utility.hpp
+cstring
+-
+
